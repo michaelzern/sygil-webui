@@ -1,3 +1,5 @@
+#check github automation
+
 # <center>Web-based UI for Stable Diffusion</center>
 
 ## Created by [Sygil.Dev](https://github.com/sygil-dev)
